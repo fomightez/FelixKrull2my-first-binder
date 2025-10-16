@@ -4,4 +4,4 @@ dependencies:
 - manim
 - pip
 - pip:
-    - rich
+    - .
